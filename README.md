@@ -2,7 +2,7 @@
 
 An arcade dodge game for Android. Navigate your spaceship through a dual-tunnel environment, dodge two enemies whose speed increases as you score, collect coins to boost your score, and unlock new ships as you improve.
 
-[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Available-green?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.example.spaceship)
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Available-green?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.qwertycreations.spaceship)
 ![Downloads](https://img.shields.io/badge/Downloads-50%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Android-lightgrey?logo=android)
 ![Language](https://img.shields.io/badge/Language-Java-orange?logo=java)
@@ -50,7 +50,7 @@ Audio uses `MediaPlayer` for background music (with position preservation across
 
 ## Installation
 
-Available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.example.spaceship). Requires Android 5.0 (Lollipop) or higher.
+Available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.qwertycreations.spaceship). Requires Android 5.0 (Lollipop) or higher.
 
 To build from source:
 ```bash
