@@ -42,12 +42,6 @@ Audio uses `MediaPlayer` for background music (with position preservation across
 
 ---
 
-## Screenshots
-
-*Add screenshots here showing the main menu, active gameplay, the ship selection screen, and the statistics panel.*
-
----
-
 ## Installation
 
 Available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.qwertycreations.spaceship). Requires Android 5.0 (Lollipop) or higher.
